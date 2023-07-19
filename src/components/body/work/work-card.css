@@ -9,6 +9,7 @@
 }
 .work-logo {
     height: 80px;
+    object-fit: contain;
 }
 
 .work-info {

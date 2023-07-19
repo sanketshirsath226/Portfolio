@@ -1,27 +1,53 @@
 export const SkillsData = [
   {
-    type: "Web-Development",
+    type: "Languages",
     list: [
       {
-        name: "ReactJS",
-        icon: <i class="devicon-react-original colored"></i>
+        name: "Java",
+        icon: 
+        <i class="devicon-java-plain colored"></i>
         },
       {
-        name: "HTML5",
-        icon: <i class="devicon-html5-plain colored"></i>
+        name: "Python",
+        icon: <i class="devicon-python-plain colored"></i>
         },
         {
-          name: "CSS3",
-          icon: <i class="devicon-css3-plain colored"></i>
+          name: "C++",
+          icon: <i class="devicon-cplusplus-plain colored"></i>
           },
       {
         name: "JavaScript",
         icon: <i class="devicon-javascript-plain colored"></i>
+      }
+    ],
+  },
+  {
+    type: "Frameworks",
+    list: [
+      {
+        name: "React",
+        icon: 
+        <i class="devicon-react-original colored"></i>
+      
+      },
+      {
+        name: "Express",
+        icon: 
+        <i class="devicon-express-original colored"></i>
+      
+      },
+      {
+        name: "NodeJs",
+        icon: 
+        <i class="devicon-nodejs-plain colored"></i>
+      
       },
       {
         name: "Tailwind",
-        icon: <i class="devicon-tailwindcss-plain colored"></i>
-      },
+        icon: 
+        <i class="devicon-tailwindcss-plain colored"></i>
+      
+      }
     ],
   },
   {
@@ -42,11 +68,28 @@ export const SkillsData = [
       {
         name: "Ubuntu",
         icon: <i class="devicon-ubuntu-plain colored"></i>
-      },
-      {
-        name: "Bash",
-        icon: <i class="devicon-bash-plain colored"></i>
-      },
+      }
     ],
-  },
+  }, {
+    type: "Development Tools",
+    list: [
+      {
+        name: "Android Studio",
+        icon: <i class="devicon-androidstudio-plain colored"></i>
+        },
+      {
+        name: "IntellIJ",
+        icon: 
+        <i class="devicon-intellij-plain colored"></i>
+        },
+        {
+          name: "Vscode",
+          icon: <i class="devicon-vscode-plain colored"></i>
+          },
+        {
+          name: "Adobe XD",
+          icon: <i class="devicon-xd-plain colored"></i>
+          }
+    ],
+  }
 ];
