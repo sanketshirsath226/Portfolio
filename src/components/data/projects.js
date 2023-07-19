@@ -13,8 +13,8 @@ export const ProjectData=[
         title:"Chirpy",
         about: "This project is a clone of the popular question-and-answer website Quora, built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The aim of this project is to replicate the core functionality and design of Quora, providing users with a platform to ask questions, provide answers, engage in discussions, and have a chatting application, with separate roles for admins and users.",
         tags:["ReactJS", "Application Web Design", "Chatting" , "Web Development","Social Media"],
-        demo:"https://github.com/ThantZinPhyo-Slark/Google-IT-Support-Professional",
-        github:"https://github.com/ThantZinPhyo-Slark/Google-IT-Support-Professional",
+        demo:"https://github.com/sanketshirsath226/Tiaa",
+        github:"https://github.com/sanketshirsath226/Tiaa",
         image:"https://github.com/sanketshirsath226/Tiaa/raw/main/Image.png",
     },
     {
